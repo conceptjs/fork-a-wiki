@@ -13,7 +13,7 @@
   }, {
     "name" : "_mwPage_markdown",
     "expr" : {
-      "str" : "Welcome to the Markdown Wiki built with ConceptJS. \n\nThe formatting is done using the [markdown-js](https://github.com/evilstreak/markdown-js) project. Check out the [Quick Markdown Example] to view the formatting options. \n\nPages in this repository can be referenced as `[PageName]`. Pages in other repositories can be referenced with their http URL. You can click on a [New Page] link to create that page. "
+      "str" : "Fork-a-Wiki is a Markdown-based Wiki built on ConceptJS. Check out the [GitHub repo](https://github.com/conceptjs/fork-a-wiki/) for install instructions. \n\nThe formatting is done using the [markdown-js](https://github.com/evilstreak/markdown-js) project. Check out the [Quick Markdown Example] to view the formatting options. \n\nPages in this repository can be referenced as `[PageName]`. Pages in other repositories can be referenced with their http URL. You can click on a [New Page] link to create that page. "
     }
   }, {
     "name" : "mwPage",
