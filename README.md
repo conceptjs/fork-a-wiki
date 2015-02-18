@@ -1,5 +1,12 @@
-This is an export of a ConceptJS repository. You can: 
-- [Launch the repo](https://web.conceptjs.com/launch) on ConceptJS. The footer includes links to view and edit the code/data behind the concepts. 
-- *(Owner only)* [Synchronize the repo](https://web.conceptjs.com/launch?mode=manage) with ConceptJS. 
-- *(Contributors)* Fork this repo in GitHub and click the 'Launch' link to *deploy your fork* to ConceptJS. You can sync back your changes to GitHub and generate a pull request.
+## About
+
+This is a Markdown Wiki implementation on ConceptJS. 
+
+## Getting started
+
+1. Fork this repo on GitHub
+2. Get a [free ConceptJS account](https://web.conceptjs.com/auth/signup)
+3. Click the [launch](https://web.conceptjs.com/launch) link to get your own Wiki. 
+4. To save your Wiki pages, click the "Sync to GitHub" link in the footer of the page (or [this link](https://web.conceptjs.com/launch?mode=manage)), and push the changes. 
+5. To collaborate with others, ask them to fork your Wiki repo on GitHub, launch it on ConceptJS, and create a pull request with the changes. 
 
