@@ -1,6 +1,6 @@
 ## About
 
-This is a Markdown Wiki implementation on ConceptJS. 
+This is a simple, version-controlled Wiki for GitHub users. The Wiki is developed and hosted on ConceptJS. 
 
 ## Getting started
 
